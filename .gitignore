@@ -1,0 +1,31 @@
+# Android/IntelliJ
+*.iml
+.gradle/
+local.properties
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# macOS
+.DS_Store
+
+# Build output
+/build/
+captures/
+
+# Firebase config
+google-services.json
+
+# External Native Build
+.externalNativeBuild/
+
+# C++ build folders
+.cxx/
+
+# Android Studio generated files
+*.apk
+*.ap_
+*.jks
